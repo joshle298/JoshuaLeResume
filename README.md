@@ -1,2 +1,2 @@
 # JoshuaLeResume
-This is my most recent resume!
+This is my resume!
